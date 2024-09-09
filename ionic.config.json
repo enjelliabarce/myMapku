@@ -1,0 +1,7 @@
+{
+  "name": "myMapku",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
